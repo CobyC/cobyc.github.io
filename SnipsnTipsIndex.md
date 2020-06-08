@@ -1,7 +1,8 @@
+---
 layout: page
 title: "Snips & Tips Index"
 permalink: /SnipsTips/
-
+---
 
 These pages are a collection of _tips_ and `code snippets` used or that I found that have helped me in the past.
 
