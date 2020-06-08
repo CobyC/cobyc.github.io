@@ -1,7 +1,10 @@
 ---
+
+theme: jekyll-theme-modernist
 layout: page
 title: "Snips & Tips Index"
 permalink: /SnipsTips/
+
 ---
 
 # Snips and Tips
