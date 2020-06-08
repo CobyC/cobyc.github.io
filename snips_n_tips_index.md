@@ -2,7 +2,7 @@
 theme: jekyll-theme-modernist
 layout: page
 title: "Snips & Tips Index"
-permalink: /SnipsTips/
+permalink: /snipsntips/
 
 ---
 
